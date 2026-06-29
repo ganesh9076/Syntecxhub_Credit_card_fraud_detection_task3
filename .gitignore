@@ -1,0 +1,26 @@
+# Data (too large for GitHub)
+data/
+*.csv
+
+# Models
+models/
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
